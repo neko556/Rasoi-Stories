@@ -2,7 +2,7 @@
 
 **A community-driven digital cookbook designed to preserve and share India's vast and diverse culinary heritage, one family recipe at a time.**
 
-[Image of the Rasoi Stories Streamlit app user interface]
+
 
 Rasoi Stories provides a simple platform for users to archive their treasured family recipes in their native language. It's more than just a recipe app; it's a living museum of flavors, techniques, and the cultural memories embedded in our food.
 
